@@ -228,8 +228,8 @@ nav.navbar::after {
     display: block;
     position: absolute;
     width: 100%;
-    height: 100px;
-    top: 88px;
+    height: 130px;
+    top: 70px;
     left: 0;
     z-index: -1;
 }
