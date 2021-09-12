@@ -1,0 +1,218 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.card-socmed {
+    background: hsl(227, 47%, 96%);
+}
+
+.nav-new-bg {
+    background: hsl(223, 64%, 98%)!important;
+}
+
+.facebook {
+    border-top: 3px solid hsl(208, 92%, 53%);
+}
+
+.twitter{
+    border-top: 3px solid hsl(203, 89%, 53%);
+}
+
+.instagram {
+    border-top: 3px solid hsl(329, 70%, 58%);
+}
+
+.youtube{
+    border-top: 3px solid hsl(348, 97%, 39%);
+}
+
+h3.h3-card {
+    font-size: 13px;
+    font-weight: 700!important;
+    color: hsl(228, 12%, 44%);
+    display: inline-block;
+    vertical-align: center;
+    margin-top: 2px;
+    margin-bottom: 0;
+}
+
+span.facebook-svg::before {
+    content: "\00a0";
+}
+
+span.facebook-svg {
+    
+    margin-right: 10px;
+    background-position: left 50%;
+    font-size: 16px;
+    line-height: 1.5em;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    background-image: url(/assets/icon-facebook.svg);
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    line-height: 1em;
+    height: 20px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    vertical-align: bottom;
+}
+
+span.twitter-svg::before {
+    content: "\00a0";
+}
+
+span.twitter-svg {
+    
+    margin-right: 10px;
+    background-position: left 50%;
+    font-size: 16px;
+    line-height: 1.5em;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    background-image: url(/assets/icon-twitter.svg);
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    line-height: 1em;
+    height: 20px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+
+span.icon-up-svg::before {
+    content: "\00a0";
+}
+
+span.icon-up-svg {
+    background-position: left 50%;
+    font-size: 16px;
+    line-height: 1.5em;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    background-image: url(/assets/icon-up.svg);
+    position: relative;
+    display: inline-block;
+    width: 8px;
+    line-height: 1em;
+    height: 8px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+
+span.icon-down-svg::before {
+    content: "\00a0";
+}
+
+span.icon-down-svg {
+    background-position: left 50%;
+    font-size: 16px;
+    line-height: 1.5em;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    background-image: url(/assets/icon-down.svg);
+    position: relative;
+    display: inline-block!important;
+    width: 8px;
+    line-height: 1em;
+    height: 8px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+}
+
+span.instagram-svg::before {
+    content: "\00a0";
+}
+
+span.instagram-svg {
+    float: left;
+    margin-right: 10px;
+    background-position: left 50%;
+    font-size: 16px;
+    line-height: 1.5em;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    background-image: url(/assets/icon-instagram.svg);
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    line-height: 1em;
+    height: 20px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    vertical-align: bottom;
+}
+
+span.youtube-svg::before {
+    content: "\00a0";
+}
+
+span.youtube-svg {
+    float: left;
+    margin-right: 10px;
+    background-position: left 50%;
+    font-size: 16px;
+    line-height: 1.5em;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    background-image: url(/assets/icon-youtube.svg);
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    line-height: 1em;
+    height: 20px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    vertical-align: bottom;
+}
+
+.fllwers {
+    font-size: 10px;
+    letter-spacing: 4px;
+    color: rgb(44, 44, 44);
+    text-transform: uppercase;
+}
+
+.todaystatus-green {
+    color: hsl(163, 72%, 41%);
+    font-size: 12px;
+    font-weight: 700;
+    padding-top: 20px;
+    display: inline-block!important;
+}
+
+.todaystatus-red {
+    color: hsl(356, 69%, 56%);
+    font-size: 12px;
+    font-weight: 700;
+    padding-top: 20px;
+    display: inline-block!important;
+}
