@@ -145,7 +145,6 @@ span.instagram-svg::before {
 }
 
 span.instagram-svg {
-    float: left;
     margin-right: 10px;
     background-position: left 50%;
     font-size: 16px;
@@ -172,7 +171,6 @@ span.youtube-svg::before {
 }
 
 span.youtube-svg {
-    float: left;
     margin-right: 10px;
     background-position: left 50%;
     font-size: 16px;
