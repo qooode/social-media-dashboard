@@ -214,3 +214,10 @@ span.youtube-svg {
     padding-top: 20px;
     display: inline-block!important;
 }
+
+span.cards-2::before {
+    content: '';
+    background-image: url('https://github.com/qooode/social-media-dashboard/blob/main/assets/icon-up.svg');
+    width: 8px;
+    height: 8px;
+}
