@@ -51,7 +51,7 @@ span.facebook-svg {
     flex-grow: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    background-image: url(/assets/icon-facebook.svg);
+    background-image: url(assets/icon-facebook.svg);
     position: relative;
     display: inline-block;
     width: 20px;
@@ -78,7 +78,7 @@ span.twitter-svg {
     flex-grow: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    background-image: url(/assets/icon-twitter.svg);
+    background-image: url(assets/icon-twitter.svg);
     position: relative;
     display: inline-block;
     width: 20px;
@@ -103,7 +103,7 @@ span.icon-up-svg {
     flex-grow: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    background-image: url(/assets/icon-up.svg);
+    background-image: url(assets/icon-up.svg);
     position: relative;
     display: inline-block;
     width: 8px;
@@ -128,7 +128,7 @@ span.icon-down-svg {
     flex-grow: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    background-image: url(/assets/icon-down.svg);
+    background-image: url(assets/icon-down.svg);
     position: relative;
     display: inline-block!important;
     width: 8px;
@@ -154,7 +154,7 @@ span.instagram-svg {
     flex-grow: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    background-image: url(/assets/icon-instagram.svg);
+    background-image: url(assets/icon-instagram.svg);
     position: relative;
     display: inline-block;
     width: 20px;
@@ -180,7 +180,7 @@ span.youtube-svg {
     flex-grow: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    background-image: url(/assets/icon-youtube.svg);
+    background-image: url(assets/icon-youtube.svg);
     position: relative;
     display: inline-block;
     width: 20px;
@@ -217,7 +217,7 @@ span.youtube-svg {
 
 span.cards-2::before {
     content: '';
-    background-image: url('https://github.com/qooode/social-media-dashboard/blob/main/assets/icon-up.svg');
+    background-image: url('assets/icon-up.svg');
     width: 8px;
     height: 8px;
 }
